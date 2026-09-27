@@ -1,0 +1,16 @@
+{
+  "name": "dk-fe-bundle",
+  "description": "FE 제작 스킬 묶음(dk-fe-bundle)을 배포하는 마켓플레이스.",
+  "owner": {
+    "name": "dankim0124",
+    "email": "dankim0124@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "dk-fe-bundle",
+      "description": "화면 디자인에서 Next.js 페이지 코드까지, 단계마다 사람이 검수하는 핸드오프 문서를 거쳐 만드는 FE 제작 스킬 묶음.",
+      "category": "development",
+      "source": "./"
+    }
+  ]
+}

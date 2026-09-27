@@ -1,0 +1,17 @@
+{
+  "name": "dk-fe-bundle",
+  "version": "0.1.0",
+  "description": "화면 디자인에서 Next.js 페이지 코드까지, 단계마다 사람이 검수하는 핸드오프 문서를 거쳐 만드는 FE 제작 스킬 묶음.",
+  "author": {
+    "name": "dankim0124",
+    "email": "dankim0124@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "frontend",
+    "nextjs",
+    "design-to-code",
+    "handoff",
+    "human-in-the-loop"
+  ]
+}
